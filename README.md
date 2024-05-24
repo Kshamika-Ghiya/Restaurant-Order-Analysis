@@ -23,7 +23,7 @@ Tasks to be done
 
 ## OBJECTIVE 3
 ### Analyze customer behavior
-Your final objective is to combine the items and orders tables, find the least and most ordered categories, and dive into the details of the highest spend orders.
+Final objective is to combine the items and orders tables, find the least and most ordered categories, and dive into the details of the highest spend orders.
 
 Tasks to be done
 1. Combine the menu_items and order_details tables into a single table

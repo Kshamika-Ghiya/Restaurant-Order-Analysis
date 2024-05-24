@@ -1,2 +1,3 @@
 # Restraunt-Order-Analysis
-Restaurant Order Analysis Project by Maven Analytics
+Analyze order data to identify the most and least popular menu items and types of cuisine
+

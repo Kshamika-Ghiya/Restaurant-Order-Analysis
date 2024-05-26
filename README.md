@@ -1,6 +1,5 @@
 # Restraunt Order Analysis
-
-## Analyzed restaurant order data to identify trends, patterns, and insights for improving operational efficiency and customer satisfaction.
+Analyzed restaurant order data to identify trends, patterns, and insights for improving operational efficiency and customer satisfaction.
 
 ## Dataset
 Utilized a database containing transactional data, including order details, customer information, and menu items.

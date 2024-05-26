@@ -4,6 +4,7 @@ Analyzed restaurant order data to identify trends, patterns, and insights for im
 ## Dataset
 Utilized a database containing transactional data, including order details, customer information, and menu items.
 
+## OBJECTIVES
 ### OBJECTIVE 1
 #### Explore the items table
 The first objective is to better understand the items table by finding the number of rows in the table, the least and most expensive items, and the item prices within each category.
@@ -46,5 +47,4 @@ Tasks to be done
 ## Results
 Provided actionable insights that informed strategic decision-making and operational improvements, leading to increased revenue and customer satisfaction.
 
-## Technologies Used
-### SQL
+## Technologies Used - SQL

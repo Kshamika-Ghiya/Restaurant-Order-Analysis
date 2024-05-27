@@ -35,8 +35,6 @@ Tasks to be done
 3. What were the top 5 orders that spent the most money?
 4. View the details of the highest spending order. Which specific items were purchased?
 
-### BONUS: 
-#### View the details of the top 5 highest spend orders
 
 ## Tasks Accomplished:
 - Conducted data exploration and preprocessing to ensure data quality and consistency.
